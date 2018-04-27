@@ -1,0 +1,1 @@
+Room 1 |Door (OPEN \ CLOSE ) | Lights (OPEN \ CLOSE) | AC  | Windows 
